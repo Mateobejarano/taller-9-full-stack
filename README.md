@@ -13,3 +13,6 @@
 
 <h2>punto 2: HTML</h2>
 <img src="./public/images/html.png" alt="html">
+
+<h2>punto 3: CSS</h2>
+<img src="./public/images/html3.png" alt="html">
